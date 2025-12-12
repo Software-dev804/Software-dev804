@@ -1,4 +1,4 @@
-Hi 👋 My name is Nathan Kiptoo.
+Hi 👋 My name is Nathan Kiptoo
 ==============================
 
 Software developer and designer.
@@ -16,30 +16,16 @@ It has been a great journey learning software development. I have focused on bac
 
                 ### Socials
                 
-                <p align="left"> <a href="https://www.github.com/Nathan Kiptoo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/Nathan Kiptoo" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/Nathan Kiptoo?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
+                <p align="left"> <a href="https://www.github.com/Software-dev804" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/Software-dev804" target="_blank" rel="noreferrer"><img
+                src="https://img.shields.io/github/followers/Software-dev804?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Nathan Kiptoo"><img src="https://github-readme-stats.vercel.app/api?username=Nathan Kiptoo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Nathan Kiptoo's GitHub stats" /></a>
+<a href="http://www.github.com/Software-dev804"><img src="https://github-readme-stats.vercel.app/api?username=Software-dev804&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Software-dev804's GitHub stats" /></a>
 
-<a href="http://www.github.com/Nathan Kiptoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan Kiptoo&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Software-dev804"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Software-dev804&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Nathan Kiptoo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan Kiptoo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!--
-**Software-dev804/Software-dev804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Software-dev804" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Software-dev804&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
