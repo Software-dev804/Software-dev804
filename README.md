@@ -1,4 +1,4 @@
-Hi 👋 My name is Nathan Kiptoo
+Hi 👋 My name is Nathan Kiptoo.
 ==============================
 
 Software developer and designer.
